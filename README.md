@@ -47,7 +47,7 @@ For this next step we look at the tickets from the agents view, after recieving 
 <img src="https://i.imgur.com/kZEXRcH.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this phase of the ticket life cycle, the assigned agent or department revieces the tickets are starts workjign through the ticket. To do this they will communicate with the users periodically depending on things like the SLA or priority and will escalate if required. Communication is the main focus in this part, things like empathizing with the user and descalating emotions are key as well. After a while the ticket is worked through and either solved or given to another department.
 </p>
 <br />
 
