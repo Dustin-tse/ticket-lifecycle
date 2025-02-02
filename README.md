@@ -28,7 +28,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/FFZdxvb.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/1a5ehie.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To simulate the lifecycle of a ticket we start at hte beginning, which is when the ticket is created. For this step I act as a guest user with a problem and fill in my information as well as information for the problems I want to report, in this case I am reporting a problem that the online banking system of a company is down. Using another user I report a problem that the accounting department for a company needs to be upgraded.
 </p>
 <br />
 
