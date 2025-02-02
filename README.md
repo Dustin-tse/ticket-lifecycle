@@ -34,9 +34,8 @@ To simulate the lifecycle of a ticket we start at hte beginning, which is when t
 
 <h2>2. Assignment and Communication</h2>
 <p>
-<img src="https://i.imgur.com/MRV2SFt.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-  
 <img src="https://i.imgur.com/TXj55cQ.png" height="40%" width="40%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/ZOqFJ31.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MRV2SFt.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
